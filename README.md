@@ -45,8 +45,8 @@ Vacancies are classified as:
     ├── README.md
     ├── SKILL.md
     └── references/
-        ├── candidate-profile.md
-        └── search-criteria.md
+        ├── candidate-profile.example.md
+        └── search-criteria.example.md
 
 ### SKILL.md
 
